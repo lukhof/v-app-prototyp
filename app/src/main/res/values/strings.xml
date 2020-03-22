@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">V-App</string>
+
+    <string name="risk_of_infection_low">Gering</string>
+    <string name="risk_of_infection_high">Hoch</string>
+
+    <string name="high_infection_risk_recommendation_action">Bleiben Sie bitte zu Hause! \n\nSie standen innerhalb der letzten %d Tage im direkten Kontakt mit einer Covid-19 infizierten Person.</string>
+
+    <string name="notification_channel_name">Infektions Benachrichtigung</string>
+    <string name="notification_channel_description">Dieser Channel gibt dir eine Benachrichtigung wenn du Kontakt zu einer Infizierten Person hattest.</string>
+    <string name="notification_channel_id">client_infected</string>
+    <string name="notification_infected_title">Du wurdest infiziert</string>
+    <string name="notifiction_infected_text">Du hattest anscheineind Kontakt zu einer infizierten Person</string>
+    <string name="title_activity_report_infection">Infektion melden</string>
+    <string name="report_infection_description">Hier haben Sie die Möglichkeit eine Infektion zu melden. Bitte melden Sie nur eine Infektion, wenn Ihnen ein positiver Test vorliegt. Die Meldung einer Infektion hat Auswirkungen auf die Personen in ihrem Umkreis.</string>
+
+</resources>
